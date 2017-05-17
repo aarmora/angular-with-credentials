@@ -1,15 +1,22 @@
 {
   "name": "angular-with-credentials",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Adds a with credentials flag to all outgoing http requests.",
-  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aarmora/angular-with-credentials.git"
+  },
   "keywords": [
     "angular",
     "angular2",
     "withCredentials",
     "http"
   ],
-  "author": "aarmora <@aarmora>",
+  "author": {
+    "name": "Jordan Hansen",
+    "email": "jbhansen84@gmail.com",
+    "url": "https://github.com/aarmora"
+  },
   "license": "ISC",
   "peerDependencies": {
     "@angular/core": "*",
