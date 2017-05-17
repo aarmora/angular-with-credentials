@@ -6,8 +6,6 @@ angular-with-credentials is a simple service that you can use to easily add the 
     
     npm install angular-with-credentials
 
-### Woah! What's this NPM ERROR?
-You will most likely get an npm error during the install process. QRious has an optional dependency for node-canvas, which requires cairo to build. We don't need this dependency, but there is no way to declare that in `package.json` right now. **Feel free to ignore it.**
 ## How To Use
 
 ### Import into your NgModule
