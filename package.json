@@ -1,0 +1,18 @@
+{
+  "name": "angular-with-credentials",
+  "version": "1.0.0",
+  "description": "Adds a with credentials flag to all outgoing http requests.",
+  "main": "index.js",
+  "keywords": [
+    "angular",
+    "angular2",
+    "withCredentials",
+    "http"
+  ],
+  "author": "aarmora <@aarmora>",
+  "license": "ISC",
+  "peerDependencies": {
+    "@angular/core": "*",
+    "@angular/http": "*"
+  }
+}
