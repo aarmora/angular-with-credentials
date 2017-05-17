@@ -1,10 +1,13 @@
 {
   "name": "angular-with-credentials",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Adds a with credentials flag to all outgoing http requests.",
   "repository": {
     "type": "git",
     "url": "https://github.com/aarmora/angular-with-credentials.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   },
   "keywords": [
     "angular",

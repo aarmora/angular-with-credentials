@@ -1,5 +1,5 @@
 [![npm version](https://badge.fury.io/js/angular-with-credentials.svg)](https://badge.fury.io/js/angular-with-credentials)
-# angular2-qrcode
+# angular-with-credentials
 angular-with-credentials is a simple service that you can use to easily add the withCredential flag to angular HTTP requests.
 
 ## Install
